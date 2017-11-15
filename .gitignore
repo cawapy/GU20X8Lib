@@ -1,0 +1,5 @@
+# Arduino with Visual Studio / Visual Micro:
+**/.vs/
+**/__vm/
+**/Debug/
+**/Release/
